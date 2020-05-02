@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "381901488783",
+    "firebase_url": "https://polis-17f0b.firebaseio.com",
+    "project_id": "polis-17f0b",
+    "storage_bucket": "polis-17f0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381901488783:android:8f4b202ec6f1013037a6fa",
+        "android_client_info": {
+          "package_name": "com.appolis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381901488783-58cen7309svvjifthgs746tfdi263m19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzOKkzkZ_LCoNqqmwC_YRJk0GggIfdq28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381901488783-58cen7309svvjifthgs746tfdi263m19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
